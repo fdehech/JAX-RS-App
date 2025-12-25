@@ -1,0 +1,38 @@
+# Node.js
+client/node_modules/
+client/.next/
+client/.env
+client/.env.local
+client/.env.production.local
+client/.env.development.local
+client/npm-debug.log*
+client/yarn-debug.log*
+client/yarn-error.log*
+
+# Java/Maven
+server/PersonREST/target/
+server/PersonREST/.classpath
+server/PersonREST/.project
+server/PersonREST/.settings/
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE
+.vscode/
+.idea/
+*.iml
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Database
+*.sql~
