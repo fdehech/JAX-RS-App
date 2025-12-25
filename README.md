@@ -33,9 +33,7 @@ Mini-Projet-SOA/
 
 - ✅ Create, Read, Update, Delete (CRUD) operations for persons
 - ✅ Real-time search by name or email
-- ✅ Responsive modern UI with dark mode support
 - ✅ Form validation
-- ✅ Toast notifications
 - ✅ RESTful API with JSON responses
 - ✅ CORS enabled for cross-origin requests
 
